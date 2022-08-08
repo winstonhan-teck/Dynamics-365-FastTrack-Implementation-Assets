@@ -24,6 +24,7 @@ parameters:
 trigger:
 # - main
 # - master
+- dummy
 
 variables:
   # Azure service connection established during pipeline creation
